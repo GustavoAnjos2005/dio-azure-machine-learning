@@ -1,0 +1,7 @@
+Temperatura influencia diretamente nas vendas de sorvete.
+O modelo de regressão linear obteve um R² de 0.9669, indicando forte poder preditivo.
+O erro absoluto médio foi de 7.34, o que representa um bom nível de precisão.
+A média da temperatura foi de 25.22°C com um desvio padrão de 5.14°C.
+O valor mais comum de temperatura foi 23.10°C, aparecendo três vezes na amostra.
+A análise mostra como fatores ambientais afetam diretamente o consumo de produtos sazonais.
+O modelo pode ser expandido com variáveis como dia da semana ou promoções.
